@@ -41,7 +41,7 @@ OR
 
 ## Support
 - Support Offered: Yes
-- Send email to peter.campbell@marlinspike.io
+- Send email to peter.campbell@cigna.com
 - Support is not guaranteed and will be provided on a best effort basis.
 
 # Release Notes
